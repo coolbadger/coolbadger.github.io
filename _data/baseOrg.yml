@@ -1,0 +1,15 @@
+- name: 用户名
+  id: userName
+  width:
+  placeholder: 请输入用户名
+
+- name: 密码
+  id: password
+  placeholder: Input password
+
+- name: email
+  id: email
+  placeholder: Input email
+
+
+
